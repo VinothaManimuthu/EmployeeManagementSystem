@@ -1,0 +1,601 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|c:\\users\\nithyasammandhar\\desktop\\employee\\backup-employee management system\\employeemanagementsystemwithvalidator\\employee system\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|c:\\users\\nithyasammandhar\\desktop\\employee\\backup-employee management system\\employeemanagementsystemwithvalidator\\employee system\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|solutionrelative:controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|c:\\users\\nithyasammandhar\\desktop\\employee\\backup-employee management system\\employeemanagementsystemwithvalidator\\employee system\\controllers\\leaverequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|solutionrelative:controllers\\leaverequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|c:\\users\\nithyasammandhar\\desktop\\employee\\backup-employee management system\\employeemanagementsystemwithvalidator\\employee system\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|c:\\users\\nithyasammandhar\\desktop\\employee\\backup-employee management system\\employeemanagementsystemwithvalidator\\employee system\\factory pattern\\leaverequestfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|solutionrelative:factory pattern\\leaverequestfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|c:\\users\\nithyasammandhar\\desktop\\employee\\backup-employee management system\\employeemanagementsystemwithvalidator\\employee system\\unit of work\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|solutionrelative:unit of work\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|c:\\users\\nithyasammandhar\\desktop\\employee\\backup-employee management system\\employeemanagementsystemwithvalidator\\employee system\\services\\attendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|solutionrelative:services\\attendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|c:\\users\\nithyasammandhar\\desktop\\employee\\backup-employee management system\\employeemanagementsystemwithvalidator\\employee system\\repository\\genericrepository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|solutionrelative:repository\\genericrepository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|c:\\users\\nithyasammandhar\\desktop\\employee\\backup-employee management system\\employeemanagementsystemwithvalidator\\employee system\\repository\\genericrepository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|solutionrelative:repository\\genericrepository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|c:\\users\\nithyasammandhar\\desktop\\employee\\backup-employee management system\\employeemanagementsystemwithvalidator\\employee system\\unit of work\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|solutionrelative:unit of work\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|c:\\users\\nithyasammandhar\\desktop\\employee\\backup-employee management system\\employeemanagementsystemwithvalidator\\employee system\\services\\interface\\iattendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|solutionrelative:services\\interface\\iattendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|c:\\users\\nithyasammandhar\\desktop\\employee\\backup-employee management system\\employeemanagementsystemwithvalidator\\employee system\\strategy pattern\\hourlyattendancetrackingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|solutionrelative:strategy pattern\\hourlyattendancetrackingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|c:\\users\\nithyasammandhar\\desktop\\employee\\backup-employee management system\\employeemanagementsystemwithvalidator\\employee system\\strategy pattern\\dailyattendancetrackingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|solutionrelative:strategy pattern\\dailyattendancetrackingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|c:\\users\\nithyasammandhar\\desktop\\employee\\backup-employee management system\\employeemanagementsystemwithvalidator\\employee system\\services\\leaverequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|solutionrelative:services\\leaverequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|c:\\users\\nithyasammandhar\\desktop\\employee\\backup-employee management system\\employeemanagementsystemwithvalidator\\employee system\\services\\interface\\ileaverequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|solutionrelative:services\\interface\\ileaverequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|c:\\users\\nithyasammandhar\\desktop\\employee\\backup-employee management system\\employeemanagementsystemwithvalidator\\employee system\\services\\interface\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|solutionrelative:services\\interface\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|c:\\users\\nithyasammandhar\\desktop\\employee\\backup-employee management system\\employeemanagementsystemwithvalidator\\employee system\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|solutionrelative:services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|c:\\users\\nithyasammandhar\\desktop\\employee\\backup-employee management system\\employeemanagementsystemwithvalidator\\employee system\\strategy pattern\\interface\\iattendancetrackingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|solutionrelative:strategy pattern\\interface\\iattendancetrackingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|c:\\users\\nithyasammandhar\\desktop\\employee\\backup-employee management system\\employeemanagementsystemwithvalidator\\employee system\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|solutionrelative:models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|c:\\users\\nithyasammandhar\\desktop\\employee\\backup-employee management system\\employeemanagementsystemwithvalidator\\employee system\\map\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|solutionrelative:map\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|c:\\users\\nithyasammandhar\\desktop\\employee\\backup-employee management system\\employeemanagementsystemwithvalidator\\employee system\\employee system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|solutionrelative:employee system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|c:\\users\\nithyasammandhar\\desktop\\employee\\backup-employee management system\\employeemanagementsystemwithvalidator\\employee system\\repository\\attendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|solutionrelative:repository\\attendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|c:\\users\\nithyasammandhar\\desktop\\employee\\backup-employee management system\\employeemanagementsystemwithvalidator\\employee system\\repository\\leaverequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|solutionrelative:repository\\leaverequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|c:\\users\\nithyasammandhar\\desktop\\employee\\backup-employee management system\\employeemanagementsystemwithvalidator\\employee system\\repository\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|solutionrelative:repository\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|c:\\users\\nithyasammandhar\\desktop\\employee\\backup-employee management system\\employeemanagementsystemwithvalidator\\employee system\\dal\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|solutionrelative:dal\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|c:\\users\\nithyasammandhar\\desktop\\employee\\backup-employee management system\\employeemanagementsystemwithvalidator\\employee system\\models\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|solutionrelative:models\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|c:\\users\\nithyasammandhar\\desktop\\employee\\backup-employee management system\\employeemanagementsystemwithvalidator\\employee system\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|c:\\users\\nithyasammandhar\\desktop\\employee\\backup-employee management system\\employeemanagementsystemwithvalidator\\employee system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|c:\\users\\nithyasammandhar\\desktop\\employee\\backup-employee management system\\employeemanagementsystemwithvalidator\\employee system\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|solutionrelative:models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|c:\\users\\nithyasammandhar\\desktop\\employee\\backup-employee management system\\employeemanagementsystemwithvalidator\\employee system\\models\\registerusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|solutionrelative:models\\registerusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|c:\\users\\nithyasammandhar\\desktop\\employee\\backup-employee management system\\employeemanagementsystemwithvalidator\\employee system\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|solutionrelative:repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|c:\\users\\nithyasammandhar\\desktop\\employee\\backup-employee management system\\employeemanagementsystemwithvalidator\\employee system\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|c:\\users\\nithyasammandhar\\desktop\\employee\\backup-employee management system\\employeemanagementsystemwithvalidator\\employee system\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|solutionrelative:models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SivakumarArjunan\\source\\repos\\Employee System\\Migrations\\20241106163539_AddLeaveTypeToLeaveRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SivakumarArjunan\\source\\repos\\Employee System\\Migrations\\20241105012647_Data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SivakumarArjunan\\source\\repos\\Employee System\\Migrations\\20241105015018_AddLoginFields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AttendanceController.cs",
+              "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Controllers\\AttendanceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AttendanceController.cs",
+              "ToolTip": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Controllers\\AttendanceController.cs",
+              "RelativeToolTip": "Controllers\\AttendanceController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwDsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T18:25:11.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAowKQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T04:36:04.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LeaveRequestController.cs",
+              "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Controllers\\LeaveRequestController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LeaveRequestController.cs",
+              "ToolTip": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Controllers\\LeaveRequestController.cs",
+              "RelativeToolTip": "Controllers\\LeaveRequestController.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAowGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T04:58:00.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAgwA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T01:31:04.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Repository\\GenericRepository\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\GenericRepository\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Repository\\GenericRepository\\IGenericRepository.cs",
+              "RelativeToolTip": "Repository\\GenericRepository\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T02:14:02.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LeaveRequestFactory.cs",
+              "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Factory Pattern\\LeaveRequestFactory.cs",
+              "RelativeDocumentMoniker": "Factory Pattern\\LeaveRequestFactory.cs",
+              "ToolTip": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Factory Pattern\\LeaveRequestFactory.cs",
+              "RelativeToolTip": "Factory Pattern\\LeaveRequestFactory.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T05:33:04.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Unit of work\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Unit of work\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Unit of work\\UnitOfWork.cs",
+              "RelativeToolTip": "Unit of work\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T05:32:12.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Repository\\GenericRepository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\GenericRepository\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Repository\\GenericRepository\\GenericRepository.cs",
+              "RelativeToolTip": "Repository\\GenericRepository\\GenericRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAvwB4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T02:15:14.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Unit of work\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Unit of work\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Unit of work\\IUnitOfWork.cs",
+              "RelativeToolTip": "Unit of work\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T05:23:24.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AttendanceService.cs",
+              "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Services\\AttendanceService.cs",
+              "RelativeDocumentMoniker": "Services\\AttendanceService.cs",
+              "ToolTip": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Services\\AttendanceService.cs",
+              "RelativeToolTip": "Services\\AttendanceService.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAADwv4gAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T17:52:07.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAttendanceService.cs",
+              "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Services\\Interface\\IAttendanceService.cs",
+              "RelativeDocumentMoniker": "Services\\Interface\\IAttendanceService.cs",
+              "ToolTip": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Services\\Interface\\IAttendanceService.cs",
+              "RelativeToolTip": "Services\\Interface\\IAttendanceService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T17:51:11.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HourlyAttendanceTrackingStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Strategy Pattern\\HourlyAttendanceTrackingStrategy.cs",
+              "RelativeDocumentMoniker": "Strategy Pattern\\HourlyAttendanceTrackingStrategy.cs",
+              "ToolTip": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Strategy Pattern\\HourlyAttendanceTrackingStrategy.cs",
+              "RelativeToolTip": "Strategy Pattern\\HourlyAttendanceTrackingStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T17:41:17.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DailyAttendanceTrackingStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Strategy Pattern\\DailyAttendanceTrackingStrategy.cs",
+              "RelativeDocumentMoniker": "Strategy Pattern\\DailyAttendanceTrackingStrategy.cs",
+              "ToolTip": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Strategy Pattern\\DailyAttendanceTrackingStrategy.cs",
+              "RelativeToolTip": "Strategy Pattern\\DailyAttendanceTrackingStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T17:39:45.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LeaveRequestService.cs",
+              "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Services\\LeaveRequestService.cs",
+              "RelativeDocumentMoniker": "Services\\LeaveRequestService.cs",
+              "ToolTip": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Services\\LeaveRequestService.cs",
+              "RelativeToolTip": "Services\\LeaveRequestService.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAIwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T00:41:40.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ILeaveRequestService.cs",
+              "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Services\\Interface\\ILeaveRequestService.cs",
+              "RelativeDocumentMoniker": "Services\\Interface\\ILeaveRequestService.cs",
+              "ToolTip": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Services\\Interface\\ILeaveRequestService.cs",
+              "RelativeToolTip": "Services\\Interface\\ILeaveRequestService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T00:40:29.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Services\\Interface\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Services\\Interface\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Services\\Interface\\IEmployeeService.cs",
+              "RelativeToolTip": "Services\\Interface\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T04:30:38.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "Services\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T04:31:40.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IAttendanceTrackingStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Strategy Pattern\\Interface\\IAttendanceTrackingStrategy.cs",
+              "RelativeDocumentMoniker": "Strategy Pattern\\Interface\\IAttendanceTrackingStrategy.cs",
+              "ToolTip": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Strategy Pattern\\Interface\\IAttendanceTrackingStrategy.cs",
+              "RelativeToolTip": "Strategy Pattern\\Interface\\IAttendanceTrackingStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T17:38:51.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Models\\Attendance.cs",
+              "RelativeDocumentMoniker": "Models\\Attendance.cs",
+              "ToolTip": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Models\\Attendance.cs",
+              "RelativeToolTip": "Models\\Attendance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T23:38:39.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Map\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Map\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Map\\MappingProfile.cs",
+              "RelativeToolTip": "Map\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:00:10.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Employee System.csproj",
+              "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Employee System.csproj",
+              "RelativeDocumentMoniker": "Employee System.csproj",
+              "ToolTip": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Employee System.csproj",
+              "RelativeToolTip": "Employee System.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-04T23:39:16.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AttendanceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Repository\\AttendanceRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\AttendanceRepository.cs",
+              "ToolTip": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Repository\\AttendanceRepository.cs",
+              "RelativeToolTip": "Repository\\AttendanceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T02:23:28.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LeaveRequestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Repository\\LeaveRequestRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\LeaveRequestRepository.cs",
+              "ToolTip": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Repository\\LeaveRequestRepository.cs",
+              "RelativeToolTip": "Repository\\LeaveRequestRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T02:21:42.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Repository\\RoleRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\RoleRepository.cs",
+              "ToolTip": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Repository\\RoleRepository.cs",
+              "RelativeToolTip": "Repository\\RoleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T02:20:13.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\DAL\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\DAL\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DAL\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwCYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T23:39:55.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LeaveRequest.cs",
+              "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Models\\LeaveRequest.cs",
+              "RelativeDocumentMoniker": "Models\\LeaveRequest.cs",
+              "ToolTip": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Models\\LeaveRequest.cs",
+              "RelativeToolTip": "Models\\LeaveRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T23:37:43.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20241106163539_AddLeaveTypeToLeaveRequest.cs",
+              "DocumentMoniker": "C:\\Users\\SivakumarArjunan\\source\\repos\\Employee System\\Migrations\\20241106163539_AddLeaveTypeToLeaveRequest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\SivakumarArjunan\\source\\repos\\Employee System\\Migrations\\20241106163539_AddLeaveTypeToLeaveRequest.cs",
+              "ToolTip": "C:\\Users\\SivakumarArjunan\\source\\repos\\Employee System\\Migrations\\20241106163539_AddLeaveTypeToLeaveRequest.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\SivakumarArjunan\\source\\repos\\Employee System\\Migrations\\20241106163539_AddLeaveTypeToLeaveRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:35:40.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T23:35:44.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T01:21:01.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RegisterUserModel.cs",
+              "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Models\\RegisterUserModel.cs",
+              "RelativeDocumentMoniker": "Models\\RegisterUserModel.cs",
+              "ToolTip": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Models\\RegisterUserModel.cs",
+              "RelativeToolTip": "Models\\RegisterUserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T01:18:55.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-04T23:42:43.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "Repository\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T02:17:44.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20241105012647_Data.cs",
+              "DocumentMoniker": "C:\\Users\\SivakumarArjunan\\source\\repos\\Employee System\\Migrations\\20241105012647_Data.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\SivakumarArjunan\\source\\repos\\Employee System\\Migrations\\20241105012647_Data.cs",
+              "ToolTip": "C:\\Users\\SivakumarArjunan\\source\\repos\\Employee System\\Migrations\\20241105012647_Data.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\SivakumarArjunan\\source\\repos\\Employee System\\Migrations\\20241105012647_Data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T01:26:48.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20241105015018_AddLoginFields.cs",
+              "DocumentMoniker": "C:\\Users\\SivakumarArjunan\\source\\repos\\Employee System\\Migrations\\20241105015018_AddLoginFields.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\SivakumarArjunan\\source\\repos\\Employee System\\Migrations\\20241105015018_AddLoginFields.cs",
+              "ToolTip": "C:\\Users\\SivakumarArjunan\\source\\repos\\Employee System\\Migrations\\20241105015018_AddLoginFields.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\SivakumarArjunan\\source\\repos\\Employee System\\Migrations\\20241105015018_AddLoginFields.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T01:50:18.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T01:51:40.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Models\\Role.cs",
+              "ToolTip": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Models\\Role.cs",
+              "RelativeToolTip": "Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T23:36:39.482Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

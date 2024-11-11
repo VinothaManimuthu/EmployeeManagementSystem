@@ -1,0 +1,460 @@
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\appsettings.json
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\Employee System.exe
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\Employee System.deps.json
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\Employee System.runtimeconfig.json
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\Employee System.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\Employee System.pdb
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\Humanizer.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\obj\Debug\net8.0\Employee System.csproj.AssemblyReference.cache
+C:\Users\SivakumarArjunan\source\repos\Employee System\obj\Debug\net8.0\Employee System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SivakumarArjunan\source\repos\Employee System\obj\Debug\net8.0\Employee System.AssemblyInfoInputs.cache
+C:\Users\SivakumarArjunan\source\repos\Employee System\obj\Debug\net8.0\Employee System.AssemblyInfo.cs
+C:\Users\SivakumarArjunan\source\repos\Employee System\obj\Debug\net8.0\Employee System.csproj.CoreCompileInputs.cache
+C:\Users\SivakumarArjunan\source\repos\Employee System\obj\Debug\net8.0\Employee System.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SivakumarArjunan\source\repos\Employee System\obj\Debug\net8.0\Employee System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SivakumarArjunan\source\repos\Employee System\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\SivakumarArjunan\source\repos\Employee System\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\SivakumarArjunan\source\repos\Employee System\obj\Debug\net8.0\staticwebassets\msbuild.Employee System.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SivakumarArjunan\source\repos\Employee System\obj\Debug\net8.0\staticwebassets\msbuild.build.Employee System.props
+C:\Users\SivakumarArjunan\source\repos\Employee System\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Employee System.props
+C:\Users\SivakumarArjunan\source\repos\Employee System\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Employee System.props
+C:\Users\SivakumarArjunan\source\repos\Employee System\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\SivakumarArjunan\source\repos\Employee System\obj\Debug\net8.0\scopedcss\bundle\Employee System.styles.css
+C:\Users\SivakumarArjunan\source\repos\Employee System\obj\Debug\net8.0\Employee.EB47BC10.Up2Date
+C:\Users\SivakumarArjunan\source\repos\Employee System\obj\Debug\net8.0\Employee System.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\obj\Debug\net8.0\refint\Employee System.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\obj\Debug\net8.0\Employee System.pdb
+C:\Users\SivakumarArjunan\source\repos\Employee System\obj\Debug\net8.0\Employee System.genruntimeconfig.cache
+C:\Users\SivakumarArjunan\source\repos\Employee System\obj\Debug\net8.0\ref\Employee System.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\SivakumarArjunan\source\repos\Employee System\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\appsettings.json
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\Employee System.exe
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\Employee System.deps.json
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\Employee System.runtimeconfig.json
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\Employee System.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\Employee System.pdb
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\Humanizer.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\Npgsql.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\obj\Debug\net8.0\Employee System.csproj.AssemblyReference.cache
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\obj\Debug\net8.0\Employee System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\obj\Debug\net8.0\Employee System.AssemblyInfoInputs.cache
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\obj\Debug\net8.0\Employee System.AssemblyInfo.cs
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\obj\Debug\net8.0\Employee System.csproj.CoreCompileInputs.cache
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\obj\Debug\net8.0\Employee System.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\obj\Debug\net8.0\Employee System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\obj\Debug\net8.0\staticwebassets\msbuild.Employee System.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\obj\Debug\net8.0\staticwebassets\msbuild.build.Employee System.props
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Employee System.props
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Employee System.props
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\obj\Debug\net8.0\scopedcss\bundle\Employee System.styles.css
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\obj\Debug\net8.0\Employee.EB47BC10.Up2Date
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\obj\Debug\net8.0\Employee System.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\obj\Debug\net8.0\refint\Employee System.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\obj\Debug\net8.0\Employee System.pdb
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\obj\Debug\net8.0\Employee System.genruntimeconfig.cache
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\obj\Debug\net8.0\ref\Employee System.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\NithyaSammandhar\Desktop\Employee\Backup-Employee management system\EmployeeManagementSystemWithvalidator\Employee System\bin\Debug\net8.0\NLog.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\appsettings.Development.json
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\appsettings.json
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\Employee System.exe
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\Employee System.deps.json
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\Employee System.runtimeconfig.json
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\Employee System.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\Employee System.pdb
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\AutoMapper.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\Azure.Core.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\Azure.Identity.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\FluentValidation.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\Humanizer.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\NLog.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\System.CodeDom.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\System.Memory.Data.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\VSCodeWorkspace\API\Employee System\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\VSCodeWorkspace\API\Employee System\obj\Debug\net8.0\Employee System.csproj.AssemblyReference.cache
+D:\VSCodeWorkspace\API\Employee System\obj\Debug\net8.0\Employee System.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCodeWorkspace\API\Employee System\obj\Debug\net8.0\Employee System.AssemblyInfoInputs.cache
+D:\VSCodeWorkspace\API\Employee System\obj\Debug\net8.0\Employee System.AssemblyInfo.cs
+D:\VSCodeWorkspace\API\Employee System\obj\Debug\net8.0\Employee System.csproj.CoreCompileInputs.cache
+D:\VSCodeWorkspace\API\Employee System\obj\Debug\net8.0\Employee System.MvcApplicationPartsAssemblyInfo.cs
+D:\VSCodeWorkspace\API\Employee System\obj\Debug\net8.0\Employee System.MvcApplicationPartsAssemblyInfo.cache
+D:\VSCodeWorkspace\API\Employee System\obj\Debug\net8.0\staticwebassets.build.json
+D:\VSCodeWorkspace\API\Employee System\obj\Debug\net8.0\staticwebassets.development.json
+D:\VSCodeWorkspace\API\Employee System\obj\Debug\net8.0\staticwebassets\msbuild.Employee System.Microsoft.AspNetCore.StaticWebAssets.props
+D:\VSCodeWorkspace\API\Employee System\obj\Debug\net8.0\staticwebassets\msbuild.build.Employee System.props
+D:\VSCodeWorkspace\API\Employee System\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Employee System.props
+D:\VSCodeWorkspace\API\Employee System\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Employee System.props
+D:\VSCodeWorkspace\API\Employee System\obj\Debug\net8.0\staticwebassets.pack.json
+D:\VSCodeWorkspace\API\Employee System\obj\Debug\net8.0\scopedcss\bundle\Employee System.styles.css
+D:\VSCodeWorkspace\API\Employee System\obj\Debug\net8.0\Employee.EB47BC10.Up2Date
+D:\VSCodeWorkspace\API\Employee System\obj\Debug\net8.0\Employee System.dll
+D:\VSCodeWorkspace\API\Employee System\obj\Debug\net8.0\refint\Employee System.dll
+D:\VSCodeWorkspace\API\Employee System\obj\Debug\net8.0\Employee System.pdb
+D:\VSCodeWorkspace\API\Employee System\obj\Debug\net8.0\Employee System.genruntimeconfig.cache
+D:\VSCodeWorkspace\API\Employee System\obj\Debug\net8.0\ref\Employee System.dll
