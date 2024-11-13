@@ -51,7 +51,7 @@ namespace Employee_System.Services
                 // If not found in cache, fetch from DB
                 //var employee = await _unitOfWork.Employees.GetByIdAsync(id);
                 
-                var employee = await _unitOfWork.Employees.GetEmployeeWithDetailsUsingJoinAsync(id);
+                var employee = await _unitOfWork.Employees.GetEmployeeWithDetailsAsync(id);
 
 
 

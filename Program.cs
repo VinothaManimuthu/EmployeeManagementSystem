@@ -17,7 +17,6 @@ using System.Text;
 using FluentValidation;
 using Employee_System.Validator;
 using FluentValidation.AspNetCore;
-using Npgsql.EntityFrameworkCore.PostgreSQL;
 using System.Text.Json.Serialization;
 using NLog;
 using NLog.Web;
@@ -36,7 +35,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
-    options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 // Register repositories and services
 builder.Services.AddScoped<IGenericRepository<Employee>, EmployeeRepository>();
