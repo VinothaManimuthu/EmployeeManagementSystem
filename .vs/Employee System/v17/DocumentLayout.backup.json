@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|c:\\users\\nithyasammandhar\\desktop\\employee\\backup-employee management system\\employeemanagementsystemwithvalidator\\employee system\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|solutionrelative:nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|c:\\users\\nithyasammandhar\\desktop\\employee\\backup-employee management system\\employeemanagementsystemwithvalidator\\employee system\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63E6BFE7-39AF-4AAE-9556-BE720F26810C}|Employee System.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -151,7 +155,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -159,7 +163,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "nlog.config",
+              "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\nlog.config",
+              "RelativeDocumentMoniker": "nlog.config",
+              "ToolTip": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\nlog.config",
+              "RelativeToolTip": "nlog.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-12T12:14:41.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AttendanceController.cs",
               "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Controllers\\AttendanceController.cs",
               "RelativeDocumentMoniker": "Controllers\\AttendanceController.cs",
@@ -167,25 +184,24 @@
               "RelativeToolTip": "Controllers\\AttendanceController.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAQwDsAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T18:25:11.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T18:25:11.092Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Controllers\\EmployeeController.cs*",
-              "RelativeToolTip": "Controllers\\EmployeeController.cs*",
-              "ViewState": "AgIAAJMAAAAAAAAAAAAowKAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAowKQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-05T04:36:04.381Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "LeaveRequestController.cs",
               "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Controllers\\LeaveRequestController.cs",
               "RelativeDocumentMoniker": "Controllers\\LeaveRequestController.cs",
@@ -193,12 +209,11 @@
               "RelativeToolTip": "Controllers\\LeaveRequestController.cs",
               "ViewState": "AgIAAFsAAAAAAAAAAAAowGMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T04:58:00.183Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T04:58:00.183Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
@@ -206,12 +221,11 @@
               "RelativeToolTip": "Controllers\\AuthController.cs",
               "ViewState": "AgIAAE0AAAAAAAAAAAAgwA4AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T01:31:04.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T01:31:04.105Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "IGenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Repository\\GenericRepository\\IGenericRepository.cs",
               "RelativeDocumentMoniker": "Repository\\GenericRepository\\IGenericRepository.cs",
@@ -223,7 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "LeaveRequestFactory.cs",
               "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Factory Pattern\\LeaveRequestFactory.cs",
               "RelativeDocumentMoniker": "Factory Pattern\\LeaveRequestFactory.cs",
@@ -235,7 +249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Unit of work\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "Unit of work\\UnitOfWork.cs",
@@ -247,7 +261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Repository\\GenericRepository\\GenericRepository.cs",
               "RelativeDocumentMoniker": "Repository\\GenericRepository\\GenericRepository.cs",
@@ -259,7 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Unit of work\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "Unit of work\\IUnitOfWork.cs",
@@ -271,7 +285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "AttendanceService.cs",
               "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Services\\AttendanceService.cs",
               "RelativeDocumentMoniker": "Services\\AttendanceService.cs",
@@ -283,7 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "IAttendanceService.cs",
               "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Services\\Interface\\IAttendanceService.cs",
               "RelativeDocumentMoniker": "Services\\Interface\\IAttendanceService.cs",
@@ -295,7 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "HourlyAttendanceTrackingStrategy.cs",
               "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Strategy Pattern\\HourlyAttendanceTrackingStrategy.cs",
               "RelativeDocumentMoniker": "Strategy Pattern\\HourlyAttendanceTrackingStrategy.cs",
@@ -307,7 +321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "DailyAttendanceTrackingStrategy.cs",
               "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Strategy Pattern\\DailyAttendanceTrackingStrategy.cs",
               "RelativeDocumentMoniker": "Strategy Pattern\\DailyAttendanceTrackingStrategy.cs",
@@ -319,7 +333,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "LeaveRequestService.cs",
               "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Services\\LeaveRequestService.cs",
               "RelativeDocumentMoniker": "Services\\LeaveRequestService.cs",
@@ -331,7 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "ILeaveRequestService.cs",
               "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Services\\Interface\\ILeaveRequestService.cs",
               "RelativeDocumentMoniker": "Services\\Interface\\ILeaveRequestService.cs",
@@ -343,7 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "IEmployeeService.cs",
               "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Services\\Interface\\IEmployeeService.cs",
               "RelativeDocumentMoniker": "Services\\Interface\\IEmployeeService.cs",
@@ -355,7 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "EmployeeService.cs",
               "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Services\\EmployeeService.cs",
               "RelativeDocumentMoniker": "Services\\EmployeeService.cs",
@@ -367,7 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "IAttendanceTrackingStrategy.cs",
               "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Strategy Pattern\\Interface\\IAttendanceTrackingStrategy.cs",
               "RelativeDocumentMoniker": "Strategy Pattern\\Interface\\IAttendanceTrackingStrategy.cs",
@@ -379,7 +393,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Attendance.cs",
               "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Models\\Attendance.cs",
               "RelativeDocumentMoniker": "Models\\Attendance.cs",
@@ -391,7 +405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Map\\MappingProfile.cs",
               "RelativeDocumentMoniker": "Map\\MappingProfile.cs",
@@ -403,7 +417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Employee System.csproj",
               "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Employee System.csproj",
               "RelativeDocumentMoniker": "Employee System.csproj",
@@ -411,11 +425,12 @@
               "RelativeToolTip": "Employee System.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-04T23:39:16.652Z"
+              "WhenOpened": "2024-11-04T23:39:16.652Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "AttendanceRepository.cs",
               "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Repository\\AttendanceRepository.cs",
               "RelativeDocumentMoniker": "Repository\\AttendanceRepository.cs",
@@ -427,7 +442,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "LeaveRequestRepository.cs",
               "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Repository\\LeaveRequestRepository.cs",
               "RelativeDocumentMoniker": "Repository\\LeaveRequestRepository.cs",
@@ -439,7 +454,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "RoleRepository.cs",
               "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Repository\\RoleRepository.cs",
               "RelativeDocumentMoniker": "Repository\\RoleRepository.cs",
@@ -451,7 +466,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\DAL\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "DAL\\ApplicationDbContext.cs",
@@ -463,7 +478,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "LeaveRequest.cs",
               "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Models\\LeaveRequest.cs",
               "RelativeDocumentMoniker": "Models\\LeaveRequest.cs",
@@ -475,7 +490,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "20241106163539_AddLeaveTypeToLeaveRequest.cs",
               "DocumentMoniker": "C:\\Users\\SivakumarArjunan\\source\\repos\\Employee System\\Migrations\\20241106163539_AddLeaveTypeToLeaveRequest.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\SivakumarArjunan\\source\\repos\\Employee System\\Migrations\\20241106163539_AddLeaveTypeToLeaveRequest.cs",
@@ -487,7 +502,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "Models\\Employee.cs",
@@ -499,7 +514,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "LoginModel.cs",
               "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Models\\LoginModel.cs",
               "RelativeDocumentMoniker": "Models\\LoginModel.cs",
@@ -511,7 +526,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "RegisterUserModel.cs",
               "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Models\\RegisterUserModel.cs",
               "RelativeDocumentMoniker": "Models\\RegisterUserModel.cs",
@@ -523,7 +538,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -535,7 +550,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "EmployeeRepository.cs",
               "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Repository\\EmployeeRepository.cs",
               "RelativeDocumentMoniker": "Repository\\EmployeeRepository.cs",
@@ -547,7 +562,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "20241105012647_Data.cs",
               "DocumentMoniker": "C:\\Users\\SivakumarArjunan\\source\\repos\\Employee System\\Migrations\\20241105012647_Data.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\SivakumarArjunan\\source\\repos\\Employee System\\Migrations\\20241105012647_Data.cs",
@@ -559,7 +574,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "20241105015018_AddLoginFields.cs",
               "DocumentMoniker": "C:\\Users\\SivakumarArjunan\\source\\repos\\Employee System\\Migrations\\20241105015018_AddLoginFields.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\SivakumarArjunan\\source\\repos\\Employee System\\Migrations\\20241105015018_AddLoginFields.cs",
@@ -571,7 +586,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "ApplicationDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
@@ -583,7 +598,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "Role.cs",
               "DocumentMoniker": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Models\\Role.cs",
               "RelativeDocumentMoniker": "Models\\Role.cs",

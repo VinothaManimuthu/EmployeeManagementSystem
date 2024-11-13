@@ -54,7 +54,7 @@ namespace Employee_System.Controllers
                 return NotFound();
             }
 
-            var employeeDTO = _mapper.Map<EmployeeDTO>(employee);
+            var employeeDTO = _mapper.Map<GetByIdEmployeeDTO>(employee);
             return Ok(employeeDTO);
         }
 

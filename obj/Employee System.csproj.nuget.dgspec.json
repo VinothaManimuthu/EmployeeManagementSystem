@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VSCodeWorkspace\\API\\Employee System\\Employee System.csproj": {}
+    "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Employee System.csproj": {}
   },
   "projects": {
-    "D:\\VSCodeWorkspace\\API\\Employee System\\Employee System.csproj": {
+    "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Employee System.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VSCodeWorkspace\\API\\Employee System\\Employee System.csproj",
+        "projectUniqueName": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Employee System.csproj",
         "projectName": "Employee System",
-        "projectPath": "D:\\VSCodeWorkspace\\API\\Employee System\\Employee System.csproj",
-        "packagesPath": "C:\\Users\\VinothaManimuthu\\.nuget\\packages\\",
-        "outputPath": "D:\\VSCodeWorkspace\\API\\Employee System\\obj\\",
+        "projectPath": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\Employee System.csproj",
+        "packagesPath": "C:\\Users\\NithyaSammandhar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NithyaSammandhar\\Desktop\\Employee\\Backup-Employee management system\\EmployeeManagementSystemWithvalidator\\Employee System\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\VinothaManimuthu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\NithyaSammandhar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -76,6 +83,14 @@
             "NLog": {
               "target": "Package",
               "version": "[5.3.4, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[5.3.14, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.10, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

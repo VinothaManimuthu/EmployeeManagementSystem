@@ -38,6 +38,18 @@ namespace Employee_System.DAL
                    .WithMany(e => e.Attendances)
                    .HasForeignKey(a => a.EmployeeId)
                    .OnDelete(DeleteBehavior.Cascade);
+
+            builder.Entity<Employee>()
+        .HasMany(e => e.LeaveRequests)
+        .WithOne(lr => lr.Employee)
+        .HasForeignKey(lr => lr.EmployeeId)
+        .OnDelete(DeleteBehavior.Cascade);
+
+            builder.Entity<Employee>()
+                .HasMany(e => e.Attendances)
+                .WithOne(a => a.Employee)
+                .HasForeignKey(a => a.EmployeeId)
+                .OnDelete(DeleteBehavior.Cascade);
         }
     }
 }
