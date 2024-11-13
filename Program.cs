@@ -17,8 +17,15 @@ using System.Text;
 using FluentValidation;
 using Employee_System.Validator;
 using FluentValidation.AspNetCore;
+using Npgsql.EntityFrameworkCore.PostgreSQL;
 using System.Text.Json.Serialization;
+using NLog;
+using NLog.Web;
 
+var logger = NLogBuilder.ConfigureNLog("nlog.config").GetCurrentClassLogger();
+try
+{
+    logger.Info("Application is starting up");
 var builder = WebApplication.CreateBuilder(args);
 
 //builder.Services.AddControllers().AddJsonOptions(options =>
@@ -29,7 +36,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+    options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 // Register repositories and services
 builder.Services.AddScoped<IGenericRepository<Employee>, EmployeeRepository>();
@@ -178,3 +185,13 @@ app.UseAuthentication();
 app.UseAuthorization();
 app.MapControllers(); // This line remains unchanged
 app.Run();
+}
+catch (Exception ex)
+{
+    logger.Error(ex, "Application stopped due to an exception");
+    throw;
+}
+finally
+{
+    LogManager.Shutdown();
+}

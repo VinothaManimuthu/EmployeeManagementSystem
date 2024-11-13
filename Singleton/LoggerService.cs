@@ -28,3 +28,5 @@ namespace Employee_System.Logging
         public void Fatal(string message, Exception ex = null) => _logger.Fatal(ex, message);
     }
 }
+
+

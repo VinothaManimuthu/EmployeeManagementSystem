@@ -10,6 +10,9 @@ namespace Employee_System.Map
         {
             CreateMap<Employee, EmployeeDTO>().ReverseMap();
             CreateMap<Employee, CreateEmployeeDTO>().ReverseMap();
+            CreateMap<Employee, GetByIdEmployeeDTO>()
+    .ForMember(dest => dest.LeaveRequests, opt => opt.MapFrom(src => src.LeaveRequests));
+
             CreateMap<LeaveRequest, LeaveRequestDTO>().ReverseMap();
             CreateMap<LeaveRequest, PostLeaveRequestDTO>().ReverseMap();
             CreateMap<Attendance, AttendanceDTO>().ReverseMap();
